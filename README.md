@@ -1,0 +1,2 @@
+# sophia
+my first repository
